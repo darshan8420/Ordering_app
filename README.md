@@ -30,6 +30,6 @@ b. Food Card:
 
 ![](assets/images/Food-card.png)
    
-# Food Card 1:
+c. Food Card 1:
 
 ![](assets/images/Food-card-1.png)
