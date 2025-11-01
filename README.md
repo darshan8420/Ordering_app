@@ -23,10 +23,13 @@ Flutter IDE: Choose an IDE for Flutter development. Popular choices include Visu
 ## Images 
 
 a. Primary Button: 
-![](assets/images/Primary button.png)
 
-b. Food Card
-![](assets/images/Food card.png)
+![](assets/images/Primary-button.png)
+
+b. Food Card:
+
+![](assets/images/Food-card.png)
    
-# Food Card 1
-![](assets/images/Food card 1.png)
+# Food Card 1:
+
+![](assets/images/Food-card-1.png)
