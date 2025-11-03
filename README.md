@@ -20,6 +20,15 @@ Flutter IDE: Choose an IDE for Flutter development. Popular choices include Visu
 3. Visually appealing Designs
 4. Convenient and Seam-less Interface
 
+# Characteristic 
+
+a. page parameters
+b. update App State
+c. Data types (Schema) 
+d. Data collection  
+e. Action flow editor 
+f. Conditional flow
+
 ## Images 
 
 a. Primary Button: 
